@@ -1,0 +1,11 @@
+# Education, shown on the Education page, newest first.
+# Each entry needs: institution, degree, years. Optional: location.
+- education:
+    - institution: "Rice University"
+      location: "Houston, TX"
+      degree: "M.S. in Computational and Applied Mathematics"
+      years: "2024-2026"
+    - institution: "Tongji University"
+      location: "Shanghai, China"
+      degree: "B.S. in Mathematics and Applied Mathematics"
+      years: "2020-2024"
